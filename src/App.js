@@ -9,6 +9,7 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
+<<<<<<< HEAD
         <a
           className="App-link"
           href="https://reactjs.org"
@@ -17,6 +18,8 @@ function App() {
         >
           Learn React Activtry cccaaaa
         </a>
+=======
+>>>>>>> bc1a276f0eec49ef3e1d39af33a94fa4dddb1adf
       </header>
     </div>
   );
